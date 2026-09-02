@@ -1,0 +1,135 @@
+[
+  {
+    "Hora": "Invitatorio",
+    "Tipo": "antInvitatorio",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Leituras",
+    "Tipo": "textoIntroLeituras",
+    "HTML": "<p>Nasceu em Pietrelcina, na região de Benevento, na Itália, no ano de 1887. Ingressou na Ordem dos Frades Menores Capuchinhos e, ordenado sacerdote, exerceu o ministério com grande diligência pastoral, especialmente no convento da localidade de São João Rotondo, na região da Apúlia, servindo o povo de Deus com grande espírito de oração e humildade, na direcção espiritual dos fiéis, na reconciliação dos penitentes e na dedicação providente pelos enfermos e os pobres. Plenamente configurado com Cristo crucificado, completou a sua peregrinação terrena no dia 23 de setembro de 1968.</p>",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Leituras",
+    "Tipo": "hinoLeituras",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Leituras",
+    "Tipo": "leitura2Leituras",
+    "HTML": "<h3 style=\"color: red\"><br>✠&nbsp;&nbsp;Segunda Leitura&nbsp;&nbsp;✠</h3>\n\n<p><i>Do Decreto Presbyterorum ordinis sobre o ministério e a vida dos presbíteros, do Concílio Vaticano II<br>\n<span style=\"color: red\">(N.12)</span><br>\n(Séc.XX)</i></p>\n\n<p><b>A vocação dos presbíteros à perfeição</b></p>\n\n<p>Pelo sacramento da Ordem, os presbíteros são configurados com Cristo sacerdote, na qualidade de ministros da Cabeça, para construir e edificar todo o seu corpo que é a Igreja, como cooperadores da ordem episcopal. De fato, já pela consagração do batismo receberam, como todos os cristãos, o sinal e o dom de tão grande vocação e graça para que, apesar da fraqueza humana, possam e devam procurar a perfeição, segundo a palavra do Senhor: Sede perfeitos como o vosso Pai celeste é perfeito (Mt 5,48).</p>\n\n<p>Os sacerdotes, porém, estão obrigados por especial motivo a atingir tal perfeição, uma vez que, consagrados a Deus de modo novo pela recepção do sacramento da Ordem, se transformaram em instrumentos vivos de Cristo, eterno Sacerdote, a fim de poderem continuar através dos tempos sua obra admirável que reuniu com suma eficiência toda a família humana.</p>\n\n<p>Como, pois, cada sacerdote, a seu modo, faz as vezes da própria pessoa de Cristo, é também enriquecido por uma graça especial, para que, no serviço dos homens a ele confiados e de todo o povo de Deus, possa alcançar melhor a perfeição daquele a quem representa, e para que veja a fraqueza do homem carnal curada pela santidade daquele que por nós se fez Pontífice santo, inocente, sem mancha, separado dos pecadores (Hb 7,26).</p>\n\n<p>Cristo, a quem o Pai santificou, ou melhor, consagrou e enviou ao mundo, se entregou por nós, para nos resgatar de toda a maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem (Tt 2,1), e assim, pela Paixão, entrou na sua glória. De modo semelhante, os presbíteros, consagrados pela unção do Espírito Santo e enviados por Cristo, mortificam em si mesmos as obras da carne e dedicam-se totalmente ao serviço dos homens, e assim podem progredir na santidade pela qual foram enriquecidos em Cristo, até atingirem a estatura do homem perfeito.</p>\n\n<p>Deste modo, exercendo o ministério do Espírito e da justiça, se forem dóceis ao Espírito de Cristo que os vivifica e dirige, firmam-se na vida espiritual. Pelas próprias ações sagradas de cada dia, como também por todo o seu ministério, exercido em comunhão com o bispo e com os outros presbíteros, eles mesmos se orientam para a perfeição da vida.</p>\n\n<p>A santidade dos presbíteros, por sua vez, contribui muitíssimo para o desempenho frutuoso do próprio ministério; pois, embora a graça divina possa realizar a obra da salvação também por meio de ministros indignos, contudo Deus prefere, segundo a lei ordinária, manifestar as suas maravilhas através daqueles que, dóceis ao impulso e direção do Espírito Santo, pela sua íntima união com Cristo e santidade de vida, podem dizer com o Apóstolo: Eu vivo, mas não eu, é Cristo que vive em mim (Gl 2,20).</p>\n\n<h3 style=\"color: red\"><br>✠&nbsp;&nbsp;Responsório&nbsp;&nbsp;✠</h3>\n\n<p><span style=\"color: red\">℟.</span> É tão grande o afeto que tenho por vós,\nque teria vos dado não só o Evangelho,\nmas até minha vida,</p>\n\n<p><span style=\"color: red\">*</span> Pois é tanto o afeto, que eu tenho por vós.</p>\n\n<p><span style=\"color: red\">℣.</span> Meus filhinhos, de novo por vós\neu sofro as dores do parto,\naté Cristo formar-se em vós. <span style=\"color: red\">*</span> Pois é tanto.</p>",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Leituras",
+    "Tipo": "oraçãoLeituras",
+    "HTML": "<p>Deus eterno e todo-poderoso, que destes ao presbítero São Pio a graça singular de participar da cruz de vosso Filho e, por seu ministério, renovastes as maravilhas de vossa misericórdia, concedei-nos, por sua intercessão, que nos associemos continuamente à paixão de Cristo e cheguemos alegremente à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo, por todos os séculos dos séculos.</p>",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Laudes",
+    "Tipo": "hinoLaudes",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Laudes",
+    "Tipo": "leituraLaudes",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Laudes",
+    "Tipo": "responsórioLaudes",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Laudes",
+    "Tipo": "antBenedictus",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Laudes",
+    "Tipo": "antBenedictus*",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Laudes",
+    "Tipo": "precesLaudes",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Laudes",
+    "Tipo": "oraçãoLaudes",
+    "HTML": "<p>Deus eterno e todo-poderoso, que destes ao presbítero São Pio a graça singular de participar da cruz de vosso Filho e, por seu ministério, renovastes as maravilhas de vossa misericórdia, concedei-nos, por sua intercessão, que nos associemos continuamente à paixão de Cristo e cheguemos alegremente à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo, por todos os séculos dos séculos.</p>",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Vésperas",
+    "Tipo": "hinoVésperas",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Vésperas",
+    "Tipo": "leituraVésperas",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Vésperas",
+    "Tipo": "responsórioVésperas",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Vésperas",
+    "Tipo": "antMagnificat",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Vésperas",
+    "Tipo": "antMagnificat*",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Vésperas",
+    "Tipo": "precesVésperas",
+    "HTML": "{comum}",
+    "Tempo": "",
+    "notas": ""
+  },
+  {
+    "Hora": "Vésperas",
+    "Tipo": "oraçãoVésperas",
+    "HTML": "<p>Deus eterno e todo-poderoso, que destes ao presbítero São Pio a graça singular de participar da cruz de vosso Filho e, por seu ministério, renovastes as maravilhas de vossa misericórdia, concedei-nos, por sua intercessão, que nos associemos continuamente à paixão de Cristo e cheguemos alegremente à glória da ressurreição. Por nosso Senhor Jesus Cristo, vosso Filho, na unidade do Espírito Santo, por todos os séculos dos séculos.</p>",
+    "Tempo": "",
+    "notas": ""
+  }
+]
